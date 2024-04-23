@@ -1,5 +1,9 @@
 ### Hi there 👋, I am Cassidy Bester
 
+I am a student studying Software Development. I am experienced in HTML, CSS and JavaScript.
+
+I continue to update my GitHub with projects that I am working on in order to build up my portfolio.
+
 <!--
 **Cassidy2024/Cassidy2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
